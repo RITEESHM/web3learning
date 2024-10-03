@@ -1,0 +1,8 @@
+MakerDAO
+
+MakerDAO is another first. This time, it's the first decentralized lending protocol in existence. MakerDAO is behind the popular stablecoin Dai.
+Stablecoins are a type of cryptocurrency whose value remains stable over time. It achieves this stability by being pegged to another currency.
+The peg obviously presents major advantages for a lending protocol. Pegging allows users to take out loans without the fear of getting liquidated due to price volatility in the crypto market.
+
+But what makes Dai different from other stablecoins like Tether (USDT) and USDC? Unlike other stablecoins—which are pegged to the almighty U.S. dollar—Dai is 100% backed by ETH.
+These supposedly U.S. dollars-pegged stablecoins are backed by collateral like "cash and equivalents and short-duration U.S. Treasuries" in the case of USDC, and commercial papers in the case Tether, which has drawn scrutiny over its legitimacy. That means it's not as trustless as Dai, which we can audit and verify is backed by its ETH equivalent in USD terms.

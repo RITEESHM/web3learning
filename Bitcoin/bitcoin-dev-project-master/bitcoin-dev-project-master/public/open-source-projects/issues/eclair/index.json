@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://github.com/ACINQ/eclair/issues/1640",
+    "publishedAt": "2020-12-15T16:41:16Z",
+    "title": "Replace Json API with (Kotlin?) plugin",
+    "labels": [
+      "enhancement",
+      "good first issue"
+    ],
+    "imageUrl": "https://avatars.githubusercontent.com/u/7670721?v=4"
+  },
+  {
+    "url": "https://github.com/ACINQ/eclair/issues/1652",
+    "publishedAt": "2020-12-18T16:58:18Z",
+    "title": "Add an option to disable server ",
+    "labels": [
+      "good first issue"
+    ],
+    "imageUrl": "https://avatars.githubusercontent.com/u/7670721?v=4"
+  },
+  {
+    "url": "https://github.com/ACINQ/eclair/issues/1858",
+    "publishedAt": "2021-07-02T12:09:16Z",
+    "title": "Update API responses to specify BtcAmount unit",
+    "labels": [
+      "enhancement",
+      "help wanted",
+      "good first issue"
+    ],
+    "imageUrl": "https://avatars.githubusercontent.com/u/7670721?v=4"
+  },
+  {
+    "url": "https://github.com/ACINQ/eclair/issues/2728",
+    "publishedAt": "2023-08-23T11:16:45Z",
+    "title": "Mutual close gets stuck if an `UpdateFee` arrives at a bad time",
+    "labels": [
+      "bug"
+    ],
+    "imageUrl": "https://avatars.githubusercontent.com/u/7670721?v=4"
+  },
+  {
+    "url": "https://github.com/ACINQ/eclair/issues/2912",
+    "publishedAt": "2024-09-23T08:28:16Z",
+    "title": "Splicing out funds should update router balances",
+    "labels": [
+      "bug"
+    ],
+    "imageUrl": "https://avatars.githubusercontent.com/u/7670721?v=4"
+  }
+]

@@ -1,0 +1,24 @@
+Stacks
+
+
+ 
+
+Year of Launch: Originally known as Blockstack, the project rebranded to Stacks in 2020. 
+
+Stacks TVL: $118 million+ 
+
+STX Market Cap: $3.62 billion+ 
+
+STX Price Performance (1Y): 231%+ 
+
+ 
+
+Stacks, initially known as Blockstack, is a comprehensive blockchain platform designed to extend Bitcoin's functionality by introducing smart contracts, decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized applications (dApps). It operates as a layer for Bitcoin, akin to the Lightning Network, to preserve internet privacy and security and mitigate data breaches. The Stacks blockchain utilizes its native cryptocurrency, the STX token, for executing smart contracts and processing transactions. Stacks' innovative approach includes using Microblocks for independent validation, maintaining security tethered to the Bitcoin blockchain, and the Clarity programming language designed to enhance smart contract security and transparency. STX tokenomics are closely linked with Bitcoin, facilitating network consensus and security through token locking mechanisms, yielding Bitcoin rewards for participants​​​​.  
+
+ 
+
+Since its launch, Stacks has seen significant developments, such as the Nakamoto release, aimed at deepening the integration with Bitcoin by enabling the Stacks network to write directly to the Bitcoin blockchain. This development introduces sBTC, a bitcoin-pegged asset facilitating decentralized asset exchange and enhancing network utility. Stacks' ecosystem is robust, hosting various applications ranging from decentralized finance platforms like Alex and Arkadiko to NFT platforms and decentralized blogging with Sigle. 
+
+ 
+
+These advancements underscore Stacks' commitment to expanding the Bitcoin economy by enabling more complex functionalities, including smart contracts and apps, all secured by Bitcoin's foundational layer. The project's innovative solutions, such as the Proof of Transfer consensus mechanism and its potential for facilitating Bitcoin-based DeFi, NFTs, and other dApps, highlight its substantial growth potential within the blockchain industry​​​​.

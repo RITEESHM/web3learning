@@ -1,0 +1,5 @@
+Uniswap
+
+The original decentralized exchange (DEX) protocol, Uniswap (UNI) released v3 a few months ago. And with it, it heralded several notable improvements.
+For v3, the most notable update came in the form of concentrated liquidity. This novel form of liquidity allows liquidity providers to set the conditions for which they would be eligible for fees. (This primarily involves setting price ranges.)
+Moreover, v3 of Uniswap was released on the Optimistic Ethereum network. Optimistic rollups are a Layer 2 scaling solution that is vastly superior to Ethereum's Layer 1 protocol. Its major benefits include reduced slippage and high gas fees, as well as near-instant transaction speeds.
